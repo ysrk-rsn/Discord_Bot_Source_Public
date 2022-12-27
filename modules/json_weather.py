@@ -8,7 +8,7 @@ import pandas as pd
 import re
 
 # API Key:
-APP_ID = '8132b305530d7b0a086b62898a4b6a82'
+APP_ID = "API_KEY_HERE"
 
 #英語表記かどうかの判断
 def isalphabet(s):
