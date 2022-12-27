@@ -1,0 +1,81 @@
+{
+  "Colors":[
+    {
+      "Name": "Blue",
+      "ID": 0,
+      "Price_Min": 100,
+      "Price_Max": 199,
+      "Header_BG": [21,101,192],
+      "Header_UserName": [255,255,255],
+      "Header_Price": [255,255,255],
+      "Lower_BG": [30,136,229],
+      "Lower_Comment": [255,255,255]
+    },
+    {
+      "Name": "LightBlue",
+      "ID": 1,
+      "Price_Min": 200,
+      "Price_Max": 499,
+      "Header_BG": [0,184,212],
+      "Header_UserName": [0,0,0],
+      "Header_Price": [0,0,0],
+      "Lower_BG": [0,229,255],
+      "Lower_Comment": [0,0,0]
+    },
+    {
+      "Name": "LightGreen",
+      "ID": 2,
+      "Price_Min": 500,
+      "Price_Max": 999,
+      "Header_BG": [0,191,165],
+      "Header_UserName": [0,0,0],
+      "Header_Price": [0,0,0],
+      "Lower_BG": [29,233,182],
+      "Lower_Comment": [0,0,0]
+    },
+    {
+      "Name": "Yellow",
+      "ID": 3,
+      "Price_Min": 1000,
+      "Price_Max": 1999,
+      "Header_BG": [255,202,40],
+      "Header_UserName": [0,0,0],
+      "Header_Price": [0,0,0],
+      "Lower_BG": [255,179,0],
+      "Lower_Comment": [0,0,0]
+    },
+    {
+      "Name": "Orange",
+      "ID": 4,
+      "Price_Min": 2000,
+      "Price_Max": 4999,
+      "Header_BG": [230,81,0],
+      "Header_UserName": [255,255,255],
+      "Header_Price": [255,255,255],
+      "Lower_BG": [245,124,0],
+      "Lower_Comment": [255,255,255]
+    },
+    {
+      "Name": "Magenta",
+      "ID": 5,
+      "Price_Min": 5000,
+      "Price_Max": 9999,
+      "Header_BG": [194,24,91],
+      "Header_UserName": [255,255,255],
+      "Header_Price": [255,255,255],
+      "Lower_BG": [233,30,99],
+      "Lower_Comment": [255,255,255]
+    },
+    {
+      "Name": "Red",
+      "ID": 6,
+      "Price_Min": 10000,
+      "Price_Max": 50000,
+      "Header_BG": [208,0,0],
+      "Header_UserName": [255,255,255],
+      "Header_Price": [255,255,255],
+      "Lower_BG": [230,33,23],
+      "Lower_Comment": [255,255,255]
+    }
+  ]
+  }
