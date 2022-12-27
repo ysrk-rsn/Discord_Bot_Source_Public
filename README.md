@@ -10,3 +10,5 @@ The bot has these following skills...
 * Upload a picture to Google-Cloud-Storage
 * Auto Talking
 * Provide you with gossip
+
+Python Version: 3.8.1
