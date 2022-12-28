@@ -12,3 +12,7 @@ The bot has these following skills...
 * Provide you with gossip
 
 Python Version: 3.8.1
+
+
+ふみふみ（鷺沢文香）に喋らせる【Disocrd Bot】
+現在進行系で拡張中なので、色々とコードが整頓されてなかったりしますがご了承ください、、、（泣）
