@@ -20,8 +20,8 @@ class Gossip(commands.Cog):
         self.bucket = bucket
 
     #豆知識を提供
-    @commands.command(aliases=[ 'ヒント','hint', 'Hint', 'ゴシップ', 'Gossip']) 
-    async def gossip(self, ctx):
+    @commands.command(aliases=[ 'ヒント','hint', 'gossip', 'ゴシップ', 'Gossip']) 
+    async def Hint(self, ctx):
         if(g.val):
             cs.Command_Switch()
             msg = ctx.message.content.rstrip().split()
